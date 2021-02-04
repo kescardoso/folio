@@ -1,11 +1,7 @@
-# Rosie Resume
-## Mini Resume Project With Bootstrap
+# Personal Portfolio Project
+## For the MLH Fellowship program
 
-[View this website on GitHub Pages](https://kescardoso.github.io/rosie-project/)
-
-Welcome!
-
-This is a fictitious online resume for a software developer.
+[View this website on GitHub Pages](https://kescardoso.github.io/kc-mlh-folio//)
 
 Resources used:
 
