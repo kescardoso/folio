@@ -37,28 +37,27 @@
 }
 
 .ui-menu-color-home {
-    background-color: #e67e22;
+    background-color: #b8d4d5;
 }
 
 .ui-menu-color-resume {
-    background-color: #9b59b6;
+    background-color: #80b4a7;
 }
 
 .ui-menu-color-contact {
-    background-color: #3498db;
-}
-
-.ui-menu-color-download {
-    background-color: #d9a81d;
-}
-
-
-.ui-menu-color-github {
-    background-color: #1c4a6c;
+    background-color: #6d7564;
 }
 
 .ui-menu-color-interests {
-    background-color: #e74c3c;
+    background-color: #b3a026;
+}
+
+.ui-menu-color-github {
+    background-color: #d9a81d;
+}
+
+.ui-menu-color-download {
+    background-color: #f5bc1a;
 }
 
 body {
