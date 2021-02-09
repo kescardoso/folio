@@ -78,5 +78,5 @@ function fetchGitHubInformation(event) {
         });
 }
 
-//Github Box: display octocat profile when page is loaded
+//Github Box: display kescardoso profile when page is loaded
 $(document).ready(fetchGitHubInformation);
