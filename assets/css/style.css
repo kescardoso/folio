@@ -67,10 +67,6 @@ body {
     color: #555555;
 }
 
-.container-fluid {
-    padding: none !important;
-}
-
 /* -----------------------------------------Special paddings/margins/text */
 
 h1,
@@ -117,6 +113,7 @@ h4 {
 
 header {
     margin: 0;
+    width: 100%;
 }
 
 .heading {
