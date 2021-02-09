@@ -67,6 +67,10 @@ body {
     color: #555555;
 }
 
+.container-fluid {
+    padding: none !important;
+}
+
 /* -----------------------------------------Special paddings/margins/text */
 
 h1,
@@ -135,6 +139,7 @@ header {
     font-weight: 300;
     font-size: 55px;
     margin-top: 50px;
+    
     letter-spacing: 0.2em;
     color: #fff;
 }
