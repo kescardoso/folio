@@ -120,11 +120,11 @@ header {
 }
 
 .logo {
-    background: url("../images/kes_cardoso.jpeg");
+    background: url("../images/kescardoso.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 370px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
