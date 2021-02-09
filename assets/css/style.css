@@ -215,7 +215,10 @@ footer {
     text-transform: uppercase;
     letter-spacing: 00.12em;
     line-height: 3em;
+    position: absolute;
+    width: 100% !important;
 }
+
 
 .cv-pdf i {
     color: #fafafa;
@@ -229,11 +232,12 @@ footer {
 }
 
 .cv-pdf i:hover {
-    color: #e84610;
+    color: #f5bc1a;
 }
 
 .social-links {
     padding-bottom: 15px;
+    line-height: 44px;
 }
 
 .social-links li a i {
@@ -253,7 +257,7 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #f5bc1a;
 }
 
 #footer-details {
@@ -264,7 +268,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #e67e22;
+    color: #b3a026;
 }
 
 .three-reasons-heading {
