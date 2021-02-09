@@ -206,10 +206,15 @@ header {
 /* -----------------------------------------Footer */
 
 footer {
-    background-color: #525252;
+    background-color: #B3A3A4;
     color: #fafafa;
-    min-height: 120px;
+    min-height: 80px;
     margin: 0;
+    padding-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 00.12em;
+    line-height: 3em;
 }
 
 .cv-pdf i {
